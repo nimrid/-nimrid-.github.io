@@ -1,2 +1,2 @@
 # edidiong.github.io
-click [here] (http://edidiong.github.io)
+click [here] (http://nimrid.github.io)
