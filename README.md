@@ -1,2 +1,2 @@
 # edidiong.github.io
-![alt](http://nimrid.github.io)
+(http://nimrid.github.io)
